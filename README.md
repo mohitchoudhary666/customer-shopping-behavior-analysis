@@ -53,7 +53,7 @@ and run the cells to inspect the data and visuals.
 
 ---
 
-## ?? What’s Included
+## ?? Whatâ€™s Included
 
 ### ? Dataset (Synthetic)
 - `customer_shopping_behavior.csv` contains customer transactions with fields like:
